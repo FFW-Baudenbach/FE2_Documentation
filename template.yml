@@ -1,7 +1,7 @@
 theme:
   name: material
 #  logo: assets/logo.png
-#  favicon: assets/favicon.ico
+  favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
   features:
