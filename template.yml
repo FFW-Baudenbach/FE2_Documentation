@@ -1,6 +1,7 @@
 theme:
   name: material
-#  logo: assets/logo.png
+  language: de
+  logo: assets/logo.png
   favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
