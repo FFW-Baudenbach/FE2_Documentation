@@ -6,9 +6,9 @@ site_dir: 'public'
 site_name: 'FFW Baudenbach Documentation'
 site_url: 'https://ffw-baudenbach.github.io/FE2_Documentation/'
 
-repo_name: 'GitLab'
+repo_name: 'GitHub'
 repo_url: 'https://github.com/FFW-Baudenbach/FE2_Documentation'
-edit_uri: 'edit/main/'
+edit_uri: 'edit/main/docs/'
 
 plugins:
   - search
