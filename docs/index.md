@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Willkommen
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hier entsteht die technische Dokumentation der [Freiwilligen Feuerwehr Markt Baudenbach](https://www.ffw-baudenbach.de).
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Fokus liegt auf der Dokumentation der Handylarmierung, aber auch generell der vorliegenden technischen Infrastruktur.
