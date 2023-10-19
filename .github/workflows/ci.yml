@@ -1,4 +1,10 @@
 name: ci 
+
+env:
+  GIT_DEPTH: "0"
+  ENABLE_LINK_CHECK: 'True'
+  ENABLE_GIT_REVISION_DATE: 'True'
+
 on:
   push:
     branches:
@@ -21,5 +27,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: pip install -r requirements.txt
+      - run: pip list | grep mkdocs 
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
