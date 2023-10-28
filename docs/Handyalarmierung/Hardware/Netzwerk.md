@@ -1,5 +1,7 @@
 # Netzwerk
 
+TODO: Netzwerkdiagramm
+
 ## Router
 
 Modell: AVM FRITZ!Box 7530  
