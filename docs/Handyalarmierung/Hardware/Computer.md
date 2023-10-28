@@ -1,6 +1,7 @@
-# PC
+# Computer
 
-Für Alamos [FE2](../Komponenten/FE2.md) wird ein Windows-PC benötigt.
+## Alamos PC
+Für Alamos [FE2](../Komponenten/FE2.md) wird in der Regel ein Windows-PC benötigt.
 
 Hierfür wurde 2021 ein Industrie-PC angeschafft mit folgenden Specs:
 
