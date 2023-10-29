@@ -15,6 +15,9 @@ Standardlösungen sind vom Setup nicht trivial und für den use-case entweder ov
 
 ## Lösung
 
+!!! Hinweis warning
+    Diese Lösung ist (entgegen den Ansprüchen) nicht generalisiert. IP-Adressen, etc. sind alle fest verdrahtet.
+
 Obiges Repository baut einen Docker Container, der diese Tätigkeiten übernimmt. Die Komponente bietet zwei Modi:
 
 * Internes Monitoring (läuft im Feuerwehrhaus)
@@ -23,8 +26,8 @@ Obiges Repository baut einen Docker Container, der diese Tätigkeiten übernimmt
 Der externe Modus stellt sicher, dass bei Internetausfall eine Benachrichtigung kommt. Er prüft daher lediglich, ob 
 das interne Monitoring noch läuft über eine Route in [FE2_ReverseProxy](FE2_ReverseProxy.md).
 
-Das interne Monitoring prüft nun regelmäßig alle Komponenten, Geräte, ... ab und schlägt über [Pushover](https://pushover.net/) Alarm.
+Das interne Monitoring prüft nun regelmäßig alle Komponenten, Geräte, ... ab und schlägt über [Pushover](../Dienste/Pushover.md) Alarm.
 
-Zu definierter Zeit wird auch der aktuelle Status versendet, damit man sieht dass noch alles läuft.
+Zu definierter Zeit wird auch der aktuelle Status versendet, damit man sieht, dass noch alles läuft.
 
 Auch wird die Information auf der Ruheperspektive auf dem Monitor dargestellt.

@@ -2,8 +2,8 @@
 
 Hydranten sollen digital gepflegt werden und dadurch ebenfalls digital in weitere Lösungen eingebunden werden, bspw.:
 
-* [FE2](../Komponenten/FE2.md) (aPager Pro, aMobile Pro, AMWeb)
-* [FE2_Kartengenerierung](../Komponenten/FE2_Kartengenerierung.md)
+* [FE2](../Software/FE2.md) (aPager Pro, aMobile Pro, AMWeb)
+* [FE2_Kartengenerierung](../Software/FE2_Kartengenerierung.md)
 
 ## Wasserkarte.info
 
