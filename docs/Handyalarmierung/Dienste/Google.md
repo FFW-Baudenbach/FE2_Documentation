@@ -17,7 +17,7 @@ Siehe auch [FE2_Calendar](../Software/FE2_Calendar.md) für weitere Nutzungen.
 
 Ein zentrales Adressbuch wird ebenfalls vom Google-Account bereitgestellt.
 
-Kontakte werden sowohl auf die [Tablets](../Hardware/Fahrzeug.md#tablets) als auch als Telefonbuch auf den [Router](../Hardware/Netzwerk.md#router) synchronisiert.
+Kontakte werden sowohl auf die [Tablets](../Hardware/Fahrzeug.md#tablets) als auch als Telefonbuch auf das [Telefon](../Hardware/Netzwerk.md#telefon) synchronisiert.
 
 ## Cloud
 

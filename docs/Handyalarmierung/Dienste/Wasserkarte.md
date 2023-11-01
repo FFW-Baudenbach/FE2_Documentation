@@ -21,4 +21,6 @@ Diese Informationen werden ebenfalls von FE2 verwendet - je nach use-case.
 
 Leider müssen die Hydranten dadurch doppelt gepflegt werden. Ein einmaliger manueller Export/Import von wasserkarte.info zu OpenFireMap wurde gemacht.
 
+Ein kleines Tool wurde entwickelt, welches KML-Dateien in verschiedene Formate transformieren kann: [FE2_WasserkarteKml2Csv](../Software/FE2_WasserkarteKml2Csv.md)
+
 Da sich Hydranten nicht allzu oft ändern, muss man nur daran denken, beide Systeme zu befüllen.

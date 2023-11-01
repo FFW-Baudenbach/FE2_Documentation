@@ -18,7 +18,7 @@ Wenn man diesen Kalender als externen Kalender in FE2 einfügen würde, hätte d
 * Unübersichtlich
 * Keine oder alle Benachrichtigungen
 
-Insbesondere der letzte Punkt is problematisch: Vermutlich schaut niemand einfach so in den FE2 Kalender. Eingestellte Benachrichtigungen in Google 
+Insbesondere der letzte Punkt ist problematisch: Vermutlich schaut niemand einfach so in den FE2 Kalender. Eingestellte Benachrichtigungen in Google 
 werden zwar verwendet (wenn es funktioniert), jedoch kann dann nicht gesteuert werden, wer welche Benachrichtigungen erhält. Das ist suboptimal.
 
 ## Lösung
