@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Home
+# Startseite
 
 Hier findet sich die technische Dokumentation der [Freiwilligen Feuerwehr Markt Baudenbach](https://www.ffw-baudenbach.de).
 
