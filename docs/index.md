@@ -1,6 +1,13 @@
-# Willkommen
+---
+hide:
+  - navigation
+---
+
+# Home
 
 Hier findet sich die technische Dokumentation der [Freiwilligen Feuerwehr Markt Baudenbach](https://www.ffw-baudenbach.de).
+
+![Alt-Text](assets/logo_rot.png)
 
 Fokus liegt auf der Dokumentation der [Handyalarmierung](Handyalarmierung/index.md) und der [Webseite](Webseite/index.md).
 

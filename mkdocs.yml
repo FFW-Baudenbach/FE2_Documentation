@@ -3,7 +3,7 @@ INHERIT: ./template.yml
 site_author: 'FFW Baudenbach'
 site_description: 'Dokumentation der FFW Baudenbach'
 site_dir: 'public'
-site_name: 'FFW Baudenbach Dokumentation'
+site_name: 'Dokumentation'
 site_url: 'https://ffw-baudenbach.github.io/FE2_Documentation/'
 
 repo_name: 'FE2_Documentation'
