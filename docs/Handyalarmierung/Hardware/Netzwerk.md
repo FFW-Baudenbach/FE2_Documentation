@@ -1,13 +1,10 @@
 # Netzwerk
 
+## Netzwerkplan
+
 ```mermaid
 graph TD
-    
 
-
-
-
-    
     subgraph buero[Büro]
         router[[Fritz!Box]]
         pwl-rt[[Fritz!Powerline Router]]
@@ -32,6 +29,7 @@ graph TD
         printer([Drucker])
         monitor([Monitor])
         actor([Aktor])
+        motion([Bewegungsmelder])
         plug([Schalter])
         rpimon(RaspberryPi Monitor)
         tablet(Tablet MZF)
@@ -45,8 +43,9 @@ graph TD
         pwl-mon---|LAN|monitor
         pwl-mon---|LAN|rpimon
         
-        plug-.->actor---|Power|monitor
+        plug-.->actor--Power-->monitor
         rpimon---|HDMI|monitor
+        actor-.-motion
 
     end
     

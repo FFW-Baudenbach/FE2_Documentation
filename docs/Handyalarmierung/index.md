@@ -1,5 +1,5 @@
 # Überblick
 
-Die folgenden Seiten bieten einen Überblick über die Handyalarmierung der Feuerwehr Baudenbach.
+Die folgenden Seiten bieten einen Überblick über die IT-Infrastruktur der Feuerwehr Baudenbach.
 
-Einher geht damit natürlich auch die technische Infrastruktur im Feuerwehrhaus selbst.
+Ein Großteil der Dienste/Hardware/Software dient der Handyalarmierung.
