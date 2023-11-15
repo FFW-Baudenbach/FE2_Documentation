@@ -23,7 +23,8 @@ Modell: Medion E2228T
 
 Auf diesem läuft Windows 10, sowie die `Zebra Web Print` Software, sodass aus FireManager gedruckt werden kann.
 
-Zusätzlich ist ein Barcodescanner [NetumScan NSW7-X](../../assets/NSW7-X_Full_Manual.pdf){:target="_blank"} per Bluetooth verbunden.
+Zusätzlich ist ein Bluetooth Barcodescanner verfügbar.  
+:fontawesome-solid-file-pdf: [NetumScan NSW7-X Handbuch](../../assets/NSW7-X_Full_Manual.pdf){:target="_blank"}
 
 
 

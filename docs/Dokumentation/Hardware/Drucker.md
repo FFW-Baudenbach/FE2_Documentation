@@ -15,3 +15,5 @@ Für das Drucken von Labels für die Geräteverwaltung wird ein Etikettendrucker
 Modell: Zebra ZD220  
 Anschaffung: 2023  
 Angeschlossen an: [Werkstatt PC](Computer.md#werkstatt-pc)
+
+:fontawesome-solid-file-pdf: [Handbuch](../../assets/zd200d-ug-de.pdf){:target="_blank"}
