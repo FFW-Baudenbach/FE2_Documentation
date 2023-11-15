@@ -13,7 +13,7 @@ edit_uri: 'edit/main/docs/'
 plugins:
   - search
   - htmlproofer:
-      raise_error: !ENV [ENABLE_LINK_CHECK, False] #Disabled locally to not break 'mkdoc serve' on every typo...
+      raise_error: !ENV [ENABLE_LINK_CHECK, True] #Disabled locally to not break 'mkdoc serve' on every typo...
       validate_external_urls: False
   - git-revision-date-localized:
       enabled: !ENV [ENABLE_GIT_REVISION_DATE, False] #Disabled locally to speed up build time
