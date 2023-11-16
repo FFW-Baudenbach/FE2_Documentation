@@ -70,7 +70,8 @@ graph TD
 ## Router
 
 Modell: AVM FRITZ!Box 7530  
-Angeschafft: 2022
+Angeschafft: 2022  
+Externe Verfügbarkeit (IPv4) über DynDNS von unserem Webhoster [ServerProfis](../Dienste/ServerProfis.md).
 
 ## Telefon
 
