@@ -14,4 +14,4 @@ Dieser RaspberryPI wird als Docker-Host genutzt und hostet daher eine Vielzahl a
 
 Modell: RaspberryPi 4 (8 GB)  
 Anschaffung: 2022  
-Angeschlossen an unseren [Monitor](../Hardware/Alarmvisualisierung.md#monitor) für die Darstellung von AMWeb via Chromium Kiosk Mode.
+Angeschlossen an unseren [Monitor](../Hardware/Visualisierung.md#monitor) für die Darstellung von AMWeb via Chromium Kiosk Mode.

@@ -83,7 +83,7 @@ Modell: AVM FRITZ!Fon C4
 * **Schulungsraum** AVM FRITZ!Repeater 1200 (Netzwerk > WLAN)
 * **Fahrzeughalle 1** AVM FRITZ!Powerline 1260 (Powerline > WLAN, [Laserdrucker](Drucker.md#laserdrucker))
 * **Fahrzeughalle 2** AVM FRITZ!Powerline 1260 (Powerline > WLAN)
-* **Monitor** AVM FRITZ!Powerline 1220E (Powerline > [RaspberryPi](RaspberryPi.md#monitor), [Monitor](Alarmvisualisierung.md#monitor))
+* **Monitor** AVM FRITZ!Powerline 1220E (Powerline > [RaspberryPi](RaspberryPi.md#monitor), [Monitor](Visualisierung.md#monitor))
 
 ## SmartHome
 
