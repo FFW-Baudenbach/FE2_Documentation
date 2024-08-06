@@ -27,7 +27,7 @@ graph TD
         fmpc(Werkstatt PC)
         labelprinter([Etikettendrucker])
         
-        fmpc---labelprinter
+        fmpc---|USB|labelprinter
     end
     
     subgraph fzh1[Fahrzeughalle 1]
