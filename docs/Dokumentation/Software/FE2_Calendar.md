@@ -4,10 +4,14 @@
 
 * :fontawesome-brands-github: [Repository](https://github.com/FFW-Baudenbach/FE2_Calendar)
 * :fontawesome-brands-docker: [Container](https://hub.docker.com/r/odin568/fe2_calendar)
-* :fontawesome-brands-raspberry-pi: [Hosting](../Hardware/RaspberryPi.md#Docker)
+* :fontawesome-brands-raspberry-pi: [Hosting](../Hardware/RaspberryPi.md#docker)
 * :fontawesome-solid-calendar-days: [Google Kalender](../Dienste/Google.md#kalender)
 
 ## Hintergrund
+
+> Hinweis: Seit 2024 nutzen wir [FireManager](../Dienste/FireManager.md#kalender) für Termine.  
+> Dadurch entfällt das Zerlegen eines Google Kalenders. Jedoch verwenden wir weiterhin dieses Tool um die 
+> Alarme zu Alamos FE2 zu setzen.
 
 Alamos bietet eine Kalenderintegration in den aPager Pro an.
 

@@ -40,6 +40,7 @@ markdown_extensions:
   # Enable Admonitions
   - admonition
   - pymdownx.details
+  - pymdownx.tilde
   - pymdownx.superfences
   # Enable code blocks
   - pymdownx.highlight:

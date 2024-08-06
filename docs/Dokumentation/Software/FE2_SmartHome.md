@@ -4,7 +4,7 @@
 
 * :fontawesome-brands-github: [Repository](https://github.com/FFW-Baudenbach/FE2_SmartHome)
 * :fontawesome-brands-docker: [Container](https://hub.docker.com/r/odin568/fe2_smarthome)
-* :fontawesome-brands-raspberry-pi: [Hosting](../Hardware/RaspberryPi.md#Docker)
+* :fontawesome-brands-raspberry-pi: [Hosting](../Hardware/RaspberryPi.md#docker)
 * :fontawesome-solid-tv: [Monitor](../Hardware/Visualisierung.md
 * #monitor)
 * :fontawesome-solid-plug-circle-bolt: [SmartHome](../Hardware/Netzwerk.md#smarthome)
