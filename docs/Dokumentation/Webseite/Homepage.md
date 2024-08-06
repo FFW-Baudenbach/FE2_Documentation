@@ -1,10 +1,13 @@
 # Homepage
 
-Unsere :material-web: [Homepage](https://www.ffw-baudenbach.de) nutzt das freie Content-Management-System :fontawesome-brands-joomla: [Joomla](https://www.joomla.org/) als technische Basis.
+## Links
 
-Sie wird von unserem [Webhosting Anbieter](../Dienste/ServerProfis.md) gehosted.
+* :fire_engine: [www.ffw-baudenbach.de](https://www.ffw-baudenbach.de)
+* :fontawesome-brands-github: [Repository](https://github.com/FFW-Baudenbach/Homepage)
+* :material-web: [Hosting](../Dienste/ServerProfis.md)
 
-!!! warning "Warnung"
-    Leider ist das verwendete Template abgekündigt und wird nicht mehr weiterentwickelt.  
-    Auch ist die Komponente `Einsatzkomponente` mit der wir die Einsätze einpflegen noch nicht bereit für eine neuere Joomla Version.
-    Daher sitzen wir aktuell auf Joomla 3.x fest ...
+Unsere Homepage nutzt :simple-materialformkdocs: [MkDocs](https://www.mkdocs.org/) als technische Basis.
+
+Die Quelldateien sind in einem GitHub repository gespeichert.
+
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
