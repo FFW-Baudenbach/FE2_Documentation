@@ -19,6 +19,7 @@ graph TD
     end
     
     subgraph schulungsraum[Schulungsraum]
+        bueropc(Büro PC)
         wlanrep[[Fritz!WLAN Repeater]]
         router---|LAN|wlanrep
     end

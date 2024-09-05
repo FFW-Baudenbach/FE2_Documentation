@@ -26,7 +26,12 @@ Auf diesem läuft Windows 10, sowie die `Zebra Web Print` Software, sodass aus F
 Zusätzlich ist ein Bluetooth Barcodescanner verfügbar.  
 :fontawesome-solid-file-pdf: [NetumScan NSW7-X Handbuch](../../assets/NSW7-X_Full_Manual.pdf){:target="_blank"}
 
+## Büro PC
+Für allgemeine Bürotätigkeiten, sowie für den Katastrophenfall, bei dem wir von der Leitstelle Einsätze nur über [FE2](../Software/FE2.md) zugewisen bekommen (ohne Alarmierung), wird ein Laptop benötigt.
 
+Modell: Lenovo ???
+
+Auf diesem läuft Windows 11.
 
 
 
