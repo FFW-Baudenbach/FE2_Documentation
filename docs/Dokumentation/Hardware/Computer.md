@@ -29,7 +29,7 @@ Zusätzlich ist ein Bluetooth Barcodescanner verfügbar.
 ## Büro PC
 Für allgemeine Bürotätigkeiten, sowie für den Katastrophenfall, bei dem wir von der Leitstelle Einsätze nur über [FE2](../Software/FE2.md) zugewisen bekommen (ohne Alarmierung), wird ein Laptop benötigt.
 
-Modell: Lenovo ???
+Modell: Lenovo V15-ADA
 
 Auf diesem läuft Windows 11.
 
