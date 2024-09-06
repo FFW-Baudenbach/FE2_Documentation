@@ -6,11 +6,11 @@
 graph TD
 
     subgraph buero[Büro]
-        router[[Fritz!Box]]
-        pwl-rt[[Fritz!Powerline Router]]
+        router[["Fritz!Box"]]
+        pwl-rt[["Fritz!Powerline Router"]]
         rpidoc(RaspberryPi Docker)
         fe2pc(Alamos PC)
-        phone[[AVM FRITZ!Fon]]
+        phone[["FRITZ!Fon"]]
         
         router---|LAN|pwl-rt
         router---|LAN|rpidoc
@@ -20,7 +20,7 @@ graph TD
     
     subgraph schulungsraum[Schulungsraum]
         bueropc(Büro PC)
-        wlanrep[[Fritz!WLAN Repeater]]
+        wlanrep[["Fritz!WLAN Repeater"]]
         router---|LAN|wlanrep
     end
     
@@ -32,8 +32,8 @@ graph TD
     end
     
     subgraph fzh1[Fahrzeughalle 1]
-        pwl-fzh1[[Fritz!Powerline WLAN FZH 1]]
-        pwl-mon[[Fritz!Powerline Monitor]]
+        pwl-fzh1[["Fritz!Powerline WLAN FZH 1"]]
+        pwl-mon[["Fritz!Powerline Monitor"]]
         printer([Laserdrucker])
         monitor([Monitor])
         actor([Aktor])
@@ -41,10 +41,6 @@ graph TD
         plug([Schalter])
         rpimon(RaspberryPi Monitor)
         tablet(Tablet MZF)
-
-       %% router---pwl-fzh1
-       %% router---pwl-fzh2
-       %% router---pwl-mon
 
         pwl-fzh1---|LAN|printer
         
@@ -58,14 +54,12 @@ graph TD
     end
     
     subgraph fzh2[Fahrzeughalle 2]
-        pwl-fzh2[Fritz!Powerline WLAN FZH 2]
+        pwl-fzh2[["Fritz!Powerline WLAN FZH 2"]]
     end
     
     pwl-rt-.-|Powerline|pwl-mon
     pwl-rt-.-|Powerline|pwl-fzh1
     pwl-rt-.-|Powerline|pwl-fzh2
-    pwl-rt-.-|Powerline|pwl-mon
-    
 ```
 
 ## Router
