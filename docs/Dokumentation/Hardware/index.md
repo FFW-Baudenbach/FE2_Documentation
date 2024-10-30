@@ -40,7 +40,7 @@ graph TD
     end
     
     subgraph fzh1[Fahrzeughalle 1]
-        pwl-fzh1[[Fritz!Powerline WLAN FZH 1]]
+        pwl-fzh1[["Fritz!Powerline WLAN FZH&nbsp;1"]]
         pwl-mon[[Fritz!Powerline Monitor]]
         printer([Laserdrucker])
         monitor([Monitor])
@@ -66,7 +66,7 @@ graph TD
     end
     
     subgraph fzh2[Fahrzeughalle 2]
-        pwl-fzh2[[Fritz!Powerline WLAN FZH 2]]
+        pwl-fzh2[["Fritz!Powerline WLAN FZH&nbsp;2"]]
     end
     
     pwl-rt-.-|Powerline|pwl-mon
