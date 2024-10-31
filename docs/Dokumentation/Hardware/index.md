@@ -28,6 +28,7 @@ graph TD
     subgraph schulungsraum[Schulungsraum]
         bueropc(Büro PC)
         copier([Multifunktionsgerät])
+        beamer([Beamer])
         wlanrep[[Fritz!WLAN Repeater]]
         router---|LAN|wlanrep
     end
