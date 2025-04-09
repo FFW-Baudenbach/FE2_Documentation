@@ -31,6 +31,9 @@ graph TD
         beamer([Beamer])
         wlanrep[[Fritz!WLAN Repeater]]
         router---|LAN|wlanrep
+        
+        bueropc---|USB|copier
+        bueropc---|HDMI|beamer
     end
     
     subgraph werkstatt[Werkstatt]
@@ -68,6 +71,7 @@ graph TD
     
     subgraph fzh2[Fahrzeughalle 2]
         pwl-fzh2[["Fritz!Powerline WLAN FZH&nbsp;2"]]
+        lardis-hlf(Lardis HLF)
     end
     
     pwl-rt-.-|Powerline|pwl-mon
@@ -76,3 +80,5 @@ graph TD
     pwl-rt-.-|Powerline|pwl-mon
     
 ```
+
+*Hinweis: WLAN Verbindungen sind zur besseren Lesbarkeit nicht eingezeichnet.*
