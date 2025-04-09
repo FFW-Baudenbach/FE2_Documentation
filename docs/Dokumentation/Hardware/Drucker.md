@@ -18,10 +18,10 @@ Angeschlossen an: [Werkstatt PC](Computer.md#werkstatt-pc)
 
 :fontawesome-solid-file-pdf: [Handbuch](../../assets/zd200d-ug-de.pdf){:target="_blank"}
 
-## Kopierer
+## Multifunktionsgerät
 
-Für das Kopieren steht im Büro ein ausgemustertes Multifunktionsgerät. Da es nicht netzwerkfähig ist, wird es lediglich als Kopierer verwendet.
+Für das Kopieren steht im Büro ein ausgemustertes Multifunktionsgerät. Da es nicht netzwerkfähig ist, wird es in der Regel lediglich als Kopierer verwendet.
 
 Modell: Brother MFC-7320  
 Anschaffung: 2024 (ausgemustert von UG-ÖEL)  
-Angeschlossen an: ---
+Angeschlossen an: ~~[Büro-PC](Computer.md#buro-pc)~~
