@@ -53,6 +53,7 @@ graph TD
         plug([Schalter])
         rpimon(RaspberryPi Monitor)
         tablet(Tablet MZF)
+        defi(Defibrillator)
 
        %% router---pwl-fzh1
        %% router---pwl-fzh2
