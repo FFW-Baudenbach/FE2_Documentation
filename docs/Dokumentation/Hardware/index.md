@@ -55,10 +55,6 @@ graph TD
         tablet(Tablet MZF)
         defi(Defibrillator)
 
-       %% router---pwl-fzh1
-       %% router---pwl-fzh2
-       %% router---pwl-mon
-
         pwl-fzh1---|LAN|printer
         
         pwl-mon---|LAN|monitor
@@ -78,7 +74,6 @@ graph TD
     pwl-rt-.-|Powerline|pwl-mon
     pwl-rt-.-|Powerline|pwl-fzh1
     pwl-rt-.-|Powerline|pwl-fzh2
-    pwl-rt-.-|Powerline|pwl-mon
     
 ```
 
