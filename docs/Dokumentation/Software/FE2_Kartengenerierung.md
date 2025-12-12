@@ -9,6 +9,8 @@
 
 ## Hintergrund
 
+> Mit Ende des Alarmfaxes nutzen wir das Tool aktuell nicht mehr. Offen ob wir es für die neue Alarmdepesche verwenden.
+
 Neben der Handyalarmierung werden auch eine Alarmdepesche gedruckt und eine Mail an Führungskräfte versendet.
 
 Hier sollen Lagekarten mit Hydranten, sowie eine Anfahrtskarte mit abgedruckt/versendet werden.

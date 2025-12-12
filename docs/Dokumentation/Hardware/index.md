@@ -18,6 +18,7 @@ graph TD
         rpidoc(RaspberryPi Docker)
         fe2pc(Alamos PC)
         phone[[AVM FRITZ!Fon]]
+        relais([Relais Außenlicht])
         
         router---|LAN|pwl-rt
         router---|LAN|rpidoc

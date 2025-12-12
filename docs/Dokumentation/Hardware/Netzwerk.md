@@ -20,10 +20,3 @@ Modell: AVM FRITZ!Fon C4
 * **Fahrzeughalle 2** AVM FRITZ!Powerline 1260 (Powerline > WLAN)
 * **Monitor** AVM FRITZ!Powerline 1220E (Powerline > [RaspberryPi](RaspberryPi.md#monitor), [Monitor](Visualisierung.md#monitor))
 
-## SmartHome
-
-Alle SmartHome Aktoren nutzen den vorhandenen Router als Zentrale.
-
-* **Aktor Monitor** AVM FRITZ!DECT 210
-* **Schalter Monitor** AVM FRITZ!DECT 400
-* **Bewegungsmelder** Magenta SmartHome Bewegungsmelder

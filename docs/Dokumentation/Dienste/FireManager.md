@@ -12,4 +12,4 @@ Für verschiedene Gruppen/Themen werden eigene Kalender im Firemanager gepflegt,
 
 [Hier](https://www.ffw-baudenbach.de/Intern/Kalender/#abonnieren) ist eine Auflistung der verfügbaren Kalender.
 
-Siehe auch [FE2_Calendar](../Software/FE2_Calendar.md) für weitere Nutzungen.
+Siehe auch [FE2_Calendar](../Software/Archiv/FE2_Calendar.md) für weitere Nutzungen.

@@ -4,9 +4,11 @@
 
 * :fontawesome-brands-github: [Repository FE2_Zerlegung_ILSAnsbach](https://github.com/FFW-Baudenbach/FE2_Zerlegung_ILSAnsbach)
 * :fontawesome-brands-github: [Repository FE2_Zerlegung_v2](ttps://github.com/FFW-Baudenbach/FE2_Zerlegung_v2)
-* :fontawesome-solid-computer: [FE2](FE2.md)
+* :fontawesome-solid-computer: [FE2](../FE2.md)
 
 ## Hintergrund
+
+> Mit Ende des Alarmfaxes in 2026 benötigen wir diese Zerlegung nicht mehr.
 
 Zu Beginn des Setups der Handyalarmierung (2019) gab es lediglich die Möglichkeit das Leitstellenfax auszuwerten.
 
