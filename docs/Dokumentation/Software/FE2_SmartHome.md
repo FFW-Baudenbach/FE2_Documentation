@@ -7,7 +7,7 @@
 * :fontawesome-brands-raspberry-pi: [Hosting](../Hardware/RaspberryPi.md#docker)
 * :fontawesome-solid-tv: [Monitor](../Hardware/Visualisierung.md#monitor)
 * :fontawesome-solid-plug-circle-bolt: [SmartHome](../Hardware/SmartHome.md#avm)
-* :fontawesome-solid-calendar-days: [Google Kalender](../Dienste/Google.md#kalender)
+* :fontawesome-solid-calendar-days: [Kalender](../Dienste/FireManager.md#kalender)
 
 ## Hintergrund
 
@@ -32,7 +32,7 @@ Das Tool bietet REST-Endpunkte (URL-Aufrufe) an, um u.a. den Monitor anzuschalte
 Nach einer konfigurierbaren Zeit (seit einschalten) und einer definierten Zeitspanne, in der keine Bewegung festgestellt wurde,
 wird der Monitor wieder ausgeschaltet.
 
-Das Ganze wird "smart", indem zusätzlich unser Google Kalender genutzt wird:
+Das Ganze wird "smart", indem zusätzlich unser Kalender genutzt wird:
 
 Solange ein Termin den Begriff "Übung" oder "Feuerwehrhaus" im Betreff oder Ort hat, wird der Monitor eingeschaltet und für 
 die Dauer des Termins aktiv gelassen.

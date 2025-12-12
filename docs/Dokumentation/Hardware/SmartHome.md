@@ -1,5 +1,7 @@
 # SmartHome
 
+Hauptsächlich für Steuerung im Alarmablauf (Monitor an, Licht an) wurden einige SmartHome Geräte angeschafft.
+
 ## Shelly
 
 Zukünftig soll auf Shelly umgestellt werden. Den Anfang macht das verbaute Relais, welche die Beleuchtung im Falle eines Einsatzes schaltet.

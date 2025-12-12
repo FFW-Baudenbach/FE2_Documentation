@@ -8,8 +8,6 @@ Siehe [Werkstatt PC](../Hardware/Computer.md#werkstatt-pc) und [Etikettendrucker
 
 ## Kalender
 
-Für verschiedene Gruppen/Themen werden eigene Kalender im Firemanager gepflegt, die abonniert werden können.
+Für verschiedene Gruppen/Themen werden eigene Kalender im FireManager gepflegt, die abonniert werden können.
 
 [Hier](https://www.ffw-baudenbach.de/Intern/Kalender/#abonnieren) ist eine Auflistung der verfügbaren Kalender.
-
-Siehe auch [FE2_Calendar](../Software/Archiv/FE2_Calendar.md) für weitere Nutzungen.
