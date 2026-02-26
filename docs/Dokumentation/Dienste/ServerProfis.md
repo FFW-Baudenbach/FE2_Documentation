@@ -10,3 +10,4 @@ Für folgendes wird der Anbieter benutzt:
 * [Mail](../Webseite/Mail.md)
 * [Firecloud](../Webseite/Firecloud.md)
 * DynDNS im [Router](../Hardware/Netzwerk.md#router)
+* CNAMES

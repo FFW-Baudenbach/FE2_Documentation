@@ -6,7 +6,9 @@
 
 ## Hintergrund
 
-Wir pflegen Hydranten primär mit dem Dienst [Wasserkarte.info](../Dienste/Wasserkarte.md).
+> Nicht mehr relevant, da KML nicht mehr (kostenfrei) bereitgestellt wird.
+
+Wir pflegen Hydranten primär mit dem Dienst [Wasserkarte.info](../../Dienste/Wasserkarte.md).
 
 Um diese Daten auch in anderen Systemen nutzen zu können, migriert dieses Tool eine KML-Datei (einziges Exportformat)
 in verschiedene Ausgangsformate für die Weiterverarbeitung.

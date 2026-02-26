@@ -2,7 +2,7 @@
 
 ## Laserdrucker
 
-Der Netzwerkdrucker wird für die Alarmdepesche, das Alarmfax und generell für Ausdrucke verwendet.
+Der Netzwerkdrucker wird für die Alarmdepesche und generell für Ausdrucke verwendet.
 
 Modell: Samsung Xpress SL-M2825ND/SEE  
 Anschaffung: 2019  
@@ -24,4 +24,4 @@ Für das Kopieren steht im Büro ein ausgemustertes Multifunktionsgerät. Da es 
 
 Modell: Brother MFC-7320  
 Anschaffung: 2024 (ausgemustert von UG-ÖEL)  
-Angeschlossen an: ~~[Büro-PC](Computer.md#buro-pc)~~
+Angeschlossen an: ~~[Büro-PC](Computer.md#büro-pc)~~

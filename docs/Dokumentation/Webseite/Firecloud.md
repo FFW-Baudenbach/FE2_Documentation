@@ -10,9 +10,7 @@ Es gibt verschiedene geteilte Ordner mit entsprechenden Zugriffsrollen:
 
 * **Dokumentation**  
   Hier befindet sich weitere technische Dokumentation, sowie auch Zugangsdaten.
-* **Festausschuss**  
-  Dieser Ordner wurde für unser Jubiläumsfest verwendet.
 * **Feuerwehr**  
   Dateien rund um die aktive Feuerwehr (Hydrantenpläne, etc.)
 * **Feuerwehrverein**  
-  Dateien rund um den Feuerwehrverein (Protokolle, etc.)
+  Dateien rund um den Feuerwehrverein (Protokolle, etc.) inklusive Festausschuss-Archiv.

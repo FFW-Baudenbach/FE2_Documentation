@@ -21,9 +21,11 @@ Kontakte werden sowohl auf die [Tablets](../Hardware/Fahrzeug.md#tablet) als auc
 
 ## Cloud
 
-Für die Komponente [FE2_Kartengenerierung](../Software/FE2_Kartengenerierung.md) wird für die Erzeugung von Google Maps Karten 
+~~Für die Komponente [FE2_Kartengenerierung](../Software/Archiv/FE2_Kartengenerierung.md) wird für die Erzeugung von Google Maps Karten 
 ein Zugangsschlüssel benötigt.
 Hierfür ist ein Cloud-Zugang eingerichtet. Account-Settings stellen sicher, dass lediglich maximal das kostenlose Kontingent 
-an Anfragen genutzt wird, da sonst Kosten anfallen würden.
+an Anfragen genutzt wird, da sonst Kosten anfallen würden.~~
 
-Durch Caching und der Nicht-Verfügbarkeit von außen ist das ebenfalls sichergestellt.
+~~Durch Caching und der Nicht-Verfügbarkeit von außen ist das ebenfalls sichergestellt.~~
+
+> Seit 2026 wird die Cloud nicht mehr genutzt, da FE2_Kartengenerierung dekomissioniert wurde.
