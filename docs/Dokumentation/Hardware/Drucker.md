@@ -24,4 +24,4 @@ Für das Kopieren steht im Büro ein ausgemustertes Multifunktionsgerät. Da es 
 
 Modell: Brother MFC-7320  
 Anschaffung: 2024 (ausgemustert von UG-ÖEL)  
-Angeschlossen an: ~~[Büro-PC](Computer.md#büro-pc)~~
+Angeschlossen an: ~~[Büro-PC](Computer.md#buro-pc)~~
