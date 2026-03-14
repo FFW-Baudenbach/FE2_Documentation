@@ -4,7 +4,7 @@ Für die Verwaltung von Personal und Geräten der Feuerwehr wurde 2023 der [Fire
 
 Dabei handelt es sich um eine webbasierte Software, was den Pflegeaufwand minimiert.  
 
-Siehe [Werkstatt PC](../Hardware/Computer.md#werkstatt-pc) und [Etikettendrucker](../Hardware/Drucker.md#etikettendrucker).
+Siehe [Werkstatt Tablet](../Hardware/Endgeräte.md#werkstatt-tablet) und [Etikettendrucker](../Hardware/Drucker.md#etikettendrucker).
 
 ## Kalender
 

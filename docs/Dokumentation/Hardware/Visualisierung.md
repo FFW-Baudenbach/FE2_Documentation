@@ -1,6 +1,6 @@
 # Visualisierung
 
-## Monitor
+## Alarmmonitor
 
 Als Alarmvisualisierung dient ein Monitor in der Fahrzeughalle.
 

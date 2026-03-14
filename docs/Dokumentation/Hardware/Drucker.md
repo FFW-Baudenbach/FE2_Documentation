@@ -14,7 +14,7 @@ Für das Drucken von Labels für die Geräteverwaltung wird ein Etikettendrucker
 
 Modell: Zebra ZD220  
 Anschaffung: 2023  
-Angeschlossen an: [Werkstatt PC](Computer.md#werkstatt-pc)
+Angeschlossen an: [RaspberryPi Etikettendrucker](RaspberryPi.md#etikettendrucker)
 
 :fontawesome-solid-file-pdf: [Handbuch](../../assets/zd200d-ug-de.pdf){:target="_blank"}
 
@@ -24,4 +24,4 @@ Für das Kopieren steht im Büro ein ausgemustertes Multifunktionsgerät. Da es 
 
 Modell: Brother MFC-7320  
 Anschaffung: 2024 (ausgemustert von UG-ÖEL)  
-Angeschlossen an: ~~[Büro-PC](Computer.md#buro-pc)~~
+Angeschlossen an: ~~[Büro-PC](Endgeräte.md#buro-pc)~~

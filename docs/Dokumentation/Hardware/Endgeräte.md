@@ -1,4 +1,4 @@
-# Computer
+# Endgeräte
 
 ## Alamos PC
 Für Alamos [FE2](../Software/FE2.md) wird in der Regel ein Windows-PC benötigt.
@@ -14,14 +14,15 @@ Hierfür wurde 2021 ein Industrie-PC angeschafft mit folgenden Specs:
 
 Auf diesem PC läuft lediglich FE2.
 
-## Werkstatt PC
-Insbesondere für den [FireManager](../Dienste/FireManager.md) wird ein PC/Laptop benötigt.
+## Werkstatt Tablet
+Insbesondere für den [FireManager](../Dienste/FireManager.md) wird ein PC/Tablet benötigt.
 
-An diesen ist per USB der [Etikettendrucker](Drucker.md#etikettendrucker) angeschlossen.
+Modell: Lenovo Idea Pad Pro (2025)
+Anschaffung: 2026
 
-Modell: Medion E2228T  
+Das Tablet läuft mit Android. Darauf läuft die `Zebra Browser Print` Software, sodass aus FireManager drahtlos gedruckt werden kann.
 
-Auf diesem läuft Windows 10, sowie die `Zebra Browser Print` Software, so dass aus FireManager gedruckt werden kann.
+Zum Tablet gibt es Bluetooth-Tastatur/Maus und eine USB-C Dockingstation, welche mit einem Bildschirm verbunden ist.
 
 Zusätzlich ist ein Bluetooth Barcodescanner verfügbar.  
 :fontawesome-solid-file-pdf: [NetumScan NSW7-X Handbuch](../../assets/NSW7-X_Full_Manual.pdf){:target="_blank"}

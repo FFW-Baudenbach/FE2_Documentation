@@ -38,31 +38,34 @@ graph TD
     end
     
     subgraph werkstatt[Werkstatt]
-        fmpc(Werkstatt PC)
+        rpidrucker(RaspberryPi Drucker)
+        werkstatttablet(Werkstatt Tablet)
+        werkstattmonitor([Werkstatt Monitor])
         labelprinter([Etikettendrucker])
-        
-        fmpc---|USB|labelprinter
+
+        rpidrucker---|USB|labelprinter
+        werkstatttablet---|USB-C|werkstattmonitor
     end
     
     subgraph fzh1[Fahrzeughalle 1]
         pwl-fzh1[["Fritz!Powerline WLAN FZH&nbsp;1"]]
         pwl-mon[[Fritz!Powerline Monitor]]
         printer([Laserdrucker])
-        monitor([Monitor])
+        alarmmonitor([Alarmmonitor])
         actor([Aktor])
         motion([Bewegungsmelder])
         plug([Schalter])
         rpimon(RaspberryPi Monitor)
-        tablet(Tablet MZF)
+        tabletmzf(Tablet MZF)
         defi(Defibrillator)
 
         pwl-fzh1---|LAN|printer
         
-        pwl-mon---|LAN|monitor
+        pwl-mon---|LAN|alarmmonitor
         pwl-mon---|LAN|rpimon
         
-        plug-.->actor--Power-->monitor
-        rpimon---|HDMI|monitor
+        plug-.->actor--Power-->alarmmonitor
+        rpimon---|HDMI|alarmmonitor
         actor-.-motion
 
     end
