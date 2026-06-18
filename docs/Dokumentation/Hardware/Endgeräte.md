@@ -27,10 +27,11 @@ Zum Tablet gibt es Bluetooth-Tastatur/Maus und eine USB-C Dockingstation, welche
 Zusätzlich ist ein Bluetooth Barcodescanner verfügbar.  
 :fontawesome-solid-file-pdf: [NetumScan NSW7-X Handbuch](../../assets/NSW7-X_Full_Manual.pdf){:target="_blank"}
 
-## Büro PC
+## Schulungsraum Laptop
 Für allgemeine Bürotätigkeiten, sowie für den Katastrophenfall, bei dem wir von der Leitstelle Einsätze nur über [FE2](../Software/FE2.md) zugewisen bekommen (ohne Alarmierung), wird ein Laptop benötigt.
 
-Modell: Lenovo V15-ADA
+Modell: Lenovo V15-ADA  
+Anschaffung: 2025 (gebraucht übernommen)
 
 Auf diesem läuft Windows 11.
 
