@@ -11,6 +11,8 @@
 
 ## Hintergrund
 
+> Mittlerweile wurde von FRITZ!Dect Geräten auf Shelly umgestellt und für SmartHome wird [HomeAssistant](../HomeAssistant.md) verwendet.
+
 Seit 2022 haben wir einen Monitor in der Fahrzeughalle. Auf diesem wird eine Standardansicht, sowie eine
 Alarmansicht als Webseite mittels Alamos AMWeb dargestellt.
 
