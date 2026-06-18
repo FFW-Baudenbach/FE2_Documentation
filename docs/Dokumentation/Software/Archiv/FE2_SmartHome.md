@@ -6,7 +6,7 @@
 * :fontawesome-brands-docker: [Container](https://hub.docker.com/r/odin568/fe2_smarthome)
 * :fontawesome-brands-raspberry-pi: [Hosting](../../Hardware/RaspberryPi.md#docker)
 * :fontawesome-solid-tv: [Alarmmonitor](../../Hardware/Visualisierung.md#alarmmonitor)
-* :fontawesome-solid-plug-circle-bolt: [SmartHome](../../Hardware/SmartHome.md#avm)
+* :fontawesome-solid-plug-circle-bolt: [SmartHome](../../Hardware/SmartHome.md)
 * :fontawesome-solid-calendar-days: [Kalender](../../Dienste/FireManager.md#kalender)
 
 ## Hintergrund

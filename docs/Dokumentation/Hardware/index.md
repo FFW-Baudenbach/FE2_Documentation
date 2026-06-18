@@ -19,11 +19,13 @@ graph TD
         fe2pc(Alamos PC)
         phone[[AVM FRITZ!Fon]]
         relais([Relais Außenlicht])
+        taster([Taster Außenlicht])
         
         router---|LAN|pwl-rt
         router---|LAN|rpidoc
         router---|LAN|fe2pc
         router---|DECT|phone
+        relais---|BT|taster
     end
     
     subgraph schulungsraum[Schulungsraum]
@@ -52,27 +54,29 @@ graph TD
         pwl-mon[[Fritz!Powerline Monitor]]
         printer([Laserdrucker])
         alarmmonitor([Alarmmonitor])
-        actor([Aktor])
+        actor([Aktor Monitor])
         motion([Bewegungsmelder])
-        plug([Schalter])
+        switch([Schalter])
         rpimon(RaspberryPi Monitor)
         tabletmzf(Tablet MZF)
-        defi(Defibrillator)
+        kiosk(Kiosktablet)
 
         pwl-fzh1---|LAN|printer
         
         pwl-mon---|LAN|alarmmonitor
         pwl-mon---|LAN|rpimon
         
-        plug-.->actor--Power-->alarmmonitor
+        switch-.->|BT|actor--Power-->alarmmonitor
+        
         rpimon---|HDMI|alarmmonitor
-        actor-.-motion
-
+        actor-.-|BT|motion
     end
     
     subgraph fzh2[Fahrzeughalle 2]
         pwl-fzh2[["Fritz!Powerline WLAN FZH&nbsp;2"]]
         lardis-hlf(Lardis HLF)
+        lardis-drohne(Lardis Drohne)
+        defi(Defibrillator)
     end
     
     pwl-rt-.-|Powerline|pwl-mon

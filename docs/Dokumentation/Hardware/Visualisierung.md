@@ -6,11 +6,21 @@ Als Alarmvisualisierung dient ein Monitor in der Fahrzeughalle.
 
 Modell: [Iiyama ProLite LH7542UHS-B3](https://iiyama.com/de_de/produkte/prolite-lh7542uhs-b3/)  
 Anschaffung: 2022  
-Angeschlossen an [SmartHome](../Hardware/SmartHome.md#avm)
+Angeschlossen an [SmartHome](../Hardware/SmartHome.md#shelly)
 
 * HDMI 1: [AlarmMonitor](RaspberryPi.md#monitor)
 * HDMI 2: Kabel
 * HDMI 3: Wireless HDMI
+
+## Kiosktablet
+
+Wir nutzen die Software [Firemanager](../Dienste/FireManager.md) in vielen Bereichen der Feuerwehr. Zur Unterstützung bei Übungen und Einsätzen wurde ein Kiosktablet angeschafft.
+
+Darauf läuft dediziert die App "FE2 Tools". Kioskmodus ist mittels App [Fully Kiosk](https://www.fully-kiosk.com/) realisiert.
+
+Modell: [FireManager - Kiosk/Infoterminal](https://shop.firemanager.de/FireManager-Kiosk-Infoterminal/250015)  
+Anschaffung: 2026
+
 
 ## Beamer
 
