@@ -12,12 +12,11 @@ Einige Funktionen in FE2 erfordern, dass die Weboberfläche über das Internet e
 
 Gründe sind unter anderem:
 
-* Nutzung der App `Mobiler Alarm`
+* Nutzung der App `FE2 Manager`
 * Synchronisieren `aMobile Pro` von außerhalb
-* FE2 Selbstregistrierung von KameradInnen
 * FE2 Eingangsschnittstelle zusätzlich auch über HTTP
 
-FE2 selbst bietet nur HTTP an. Dies sollte nie direkt nach außen gegeben werden. Auch sollte man keine Portfreigaben
+FE2 selbst stellt einen Webserver mit HTTP bereit. Dies sollte nie direkt nach außen gegeben werden. Auch sollte man keine Portfreigaben
 direkt auf Windows-Systeme machen.
 
 Alamos schlägt hier bspw. einen IIS o.ä. vor. Sicherer ist hier eine `Reverse Proxy` Lösung auf einem eigenen Gerät,
@@ -32,7 +31,7 @@ Neben der reinen Proxy-Funktionalität für FE2 werden noch weitere use-cases ab
 
 * SSL Terminierung, sowie generelle Sicherheitseinstellungen
 * Reverse Proxy für [FE2](FE2.md)
-* Bereitstellung von statischen Icons und generierter Karten (über volume mount) von [FE2_Kartengenerierung](Archiv/FE2_Kartengenerierung.md)
-* Route auf Dashboard von [FE2_Monitoring](Archiv/FE2_Monitoring.md)
+* ~~Bereitstellung von statischen Icons und generierter Karten (über volume mount) von [FE2_Kartengenerierung](Archiv/FE2_Kartengenerierung.md)~~
+* Route auf Dashboard von [UptimeKuma](UptimeKuma.md)
 * Reverse Proxy für [FE2_Calendar](FE2_Calendar.md)
 * Eine Route (Weiterleitung) für [FE2_Documentation](FE2_Documentation.md)
