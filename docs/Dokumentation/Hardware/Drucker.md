@@ -4,8 +4,8 @@
 
 Der Netzwerkdrucker wird für die Alarmdepesche und generell für Ausdrucke verwendet.
 
-Modell: Samsung Xpress SL-M2825ND/SEE  
-Anschaffung: 2019  
+Modell: HP LaserJet Pro 3002dw  
+Anschaffung: 2026  
 Angeschlossen an: [Repeater](../Hardware/Netzwerk.md#repeater)
 
 ## Etikettendrucker
