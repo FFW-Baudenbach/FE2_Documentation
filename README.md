@@ -1,6 +1,6 @@
 # FE2_Documentation
 
-[**Access link to documentation**](https://ffw-baudenbach.github.io/FE2_Documentation/)
+[**Access link to documentation**](https://ffw-baudenbach.github.io/FE2_Documentation/) 
 
 The documentation is generated automatically generated on every change from the [docs](/docs) folder.
 
