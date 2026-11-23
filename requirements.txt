@@ -1,6 +1,2 @@
 # Required plugins and themes
-mkdocs
-mkdocs-material
-mkdocs-git-revision-date-localized-plugin
-mkdocs-htmlproofer-plugin
-click==8.2.1 # alternative --livereload
+zensical
