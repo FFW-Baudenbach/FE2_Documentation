@@ -11,8 +11,8 @@ repo_url: 'https://github.com/FFW-Baudenbach/FE2_Documentation'
 edit_uri: 'edit/main/docs/'
 
 plugins:
-  - search
-  - htmlproofer:
+  - privacy
+  - htmlproofer: #todo: not yet in zensical
       raise_error: !ENV [ENABLE_LINK_CHECK, True] #Disabled locally to not break 'mkdoc serve' on every typo...
       validate_external_urls: False
   - git-revision-date-localized:
