@@ -1,30 +1,26 @@
 # FE2_Documentation
 
-[**Access link to documentation**](https://ffw-baudenbach.github.io/FE2_Documentation/) 
+[![Built with Zensical](https://img.shields.io/badge/Built%20with-Zensical-526CFE?style=for-the-badge)](https://zensical.org/)
 
-The documentation is generated automatically generated on every change from the [docs](/docs) folder.
+**[Access the documentation](https://ffw-baudenbach.github.io/FE2_Documentation/)**
+
+The documentation website is automatically generated from the [`docs/`](docs/) folder whenever changes are pushed to the `main` branch.
 
 ## How it works
 
-This approach uses [MkDocs](https://mkdocs.org) to generate static html files out of markdown files.  
-We use the template [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) for visualization.
+This project uses [Zensical](https://zensical.org/) to generate a static HTML website from Markdown files.
 
-The generated Website is hosted as *GitHub Page* directly with this project.  
+The generated website is hosted on **GitHub Pages** directly through this repository.
 
-Changes to documentation on the main branch in the [/docs](/docs) folder will generate and deploy the documentation automatically.  
+Changes to documentation in the [`docs/`](docs/) folder on the `main` branch automatically trigger the build and deployment process.
 
-Configuration is done inside [mkdocs.yml](mkdocs.yml) file.  
-All template related configurations are done inside the [template.yml](template.yml) file.
+Configuration is managed through the [`mkdocs.yaml`](mkdocs.yaml) file.
 
 ## How to develop locally
 
-* Install Python
-* Clone this repository
-* Run `pip install --upgrade -r requirements.txt` (might need administrator rights)
-* Run `mkdocs serve`
-* Access [http://localhost:8000](http://localhost:8000) in browser
-* Any change will reload the browser automatically
+1. Install [Python](https://www.python.org/).
+2. Clone this repository.
+3. Install the required dependencies:
 
-## How to update local installation
-
-* Run `pip install --upgrade -r requirements.txt` again (might need administrator rights)
+   ```bash
+   pip install --upgrade -r requirements.txt
